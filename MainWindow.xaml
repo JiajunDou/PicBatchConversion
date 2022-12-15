@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:OpenImage"
         xmlns:hc="https://handyorg.github.io/handycontrol"
         mc:Ignorable="d"
-        Title="Open Image" Height="260" Width="566" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+        Title="Open Image" Height="260" Width="585" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
